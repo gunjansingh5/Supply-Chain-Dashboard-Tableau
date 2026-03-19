@@ -1,6 +1,6 @@
 ## SUPLY CHAIN MANAGEMENT
 
-## 📊 Project Overview
+## Project Overview
 This project focuses on analyzing supply chain data using Tableau. The dashboard provides insights into product sales, inventory levels, 
 supplier performance, and transportation costs.
 
@@ -30,7 +30,7 @@ The dataset includes information about product types, revenue, stock levels, sup
 ## Dashboard Preview
 ![Dashboard](dashboard1.png)
 
-## 🔗 Project Files
+## Project Files
 
 * Tableau Workbook (.twbx)
 * Dataset (.csv)
